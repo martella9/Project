@@ -1,0 +1,60 @@
+body {
+    background-color: black;
+}
+
+.box1 {
+    color: blanchedalmond;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.blok1 {
+    background-color: white;
+    width: 20%;
+    height: 450px;
+    border-radius: 15px;
+}
+
+.blok2 {
+    background-color: #2091f9;
+    width: 20%;
+    height: 500px;
+    border-radius: 15px;
+    color: white;
+}
+
+.blok3 {
+    background-color: white;
+    width: 20%;
+    height: 450px;
+    border-radius: 15px;
+}
+
+.box2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 50px;
+}
+
+.button {
+    background-color: #2091f9;
+    color: white;
+    border-radius: 15px;
+    width: 130px;
+    height: 35px;
+}
+
+.button1 {
+    background-color: white;
+    color: #2091f9;
+    border-radius: 15px;
+    width: 130px;
+    height: 35px;
+}
